@@ -43,8 +43,10 @@ Tokyo Ghoul enjoyer.
 </tr>
 </table>
 
-<div align="center">
+<table align="center">
+<tr><td align="center">
 
-<a href="https://discord.com/users/1480885322731618381"><img src="https://lanyard-profile-readme.vercel.app/api/1480885322731618381?theme=dark&bg=0d1117&borderRadius=14px&hideDiscrim=true" alt="discord" width="400" /></a>
+<a href="https://discord.com/users/1480885322731618381"><img src="https://lanyard-profile-readme.vercel.app/api/1480885322731618381?theme=dark&bg=161b22&borderRadius=10px&hideDiscrim=true" alt="discord" width="400" /></a>
 
-</div>
+</td></tr>
+</table>
