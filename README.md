@@ -4,7 +4,7 @@
 
 </div>
 
-<img align="right" width="290" src="assets/kaneki.gif" alt="Tokyo Ghoul" />
+<img align="right" width="300" src="assets/kaneki.gif" alt="Tokyo Ghoul" />
 
 ### 🩸 `whoami`
 
@@ -48,24 +48,18 @@ return Yanderov
 
 ---
 
-### 📊 Stats
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Yanderov&show_icons=true&hide_border=true&bg_color=0d1117&title_color=FF2B2B&text_color=ffffff&icon_color=A277FF" alt="stats" />
-<img height="165" src="https://streak-stats.demolab.com?user=Yanderov&hide_border=true&background=0d1117&stroke=30363d&ring=FF2B2B&fire=FF2B2B&currStreakLabel=A277FF&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=888888" alt="streak" />
+<img width="440" src="assets/kaneki-dark.gif" alt="Kaneki" />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yanderov&layout=compact&hide_border=true&bg_color=0d1117&title_color=FF2B2B&text_color=ffffff" alt="top langs" />
+> *"It's not the world that's messed up; it's those of us in it."*
+> — Ken Kaneki
 
 <br>
 
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
 <img src="https://komarev.com/ghpvc/?username=Yanderov&style=for-the-badge&color=FF2B2B&label=PROFILE+VIEWS" alt="views" />
 
-</div>
+<!-- Дай Discord-тег или invite (discord.gg/...) — сделаю бейдж кликабельным -->
 
----
-
-<div align="center">
-<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" />
-<!-- Дай мне свой Discord-тег или invite — сделаю бейдж кликабельным -->
 </div>
