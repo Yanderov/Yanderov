@@ -57,6 +57,10 @@ return Yanderov
 
 <br>
 
+<a href="https://discord.com/users/1480885322731618381"><img src="https://lanyard-profile-readme.vercel.app/api/1480885322731618381?theme=dark&bg=0d1117&borderRadius=12px&animated=true&hideDiscrim=true" alt="Discord presence" width="440" /></a>
+
+<br><br>
+
 <a href="https://discord.com/users/1480885322731618381"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="discord" /></a>
 <img src="https://komarev.com/ghpvc/?username=Yanderov&style=for-the-badge&color=FF2B2B&label=PROFILE+VIEWS" alt="views" />
 
