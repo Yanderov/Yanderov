@@ -12,7 +12,6 @@
 
 Luau / Roblox scripter.<br>
 Reverse engineering &amp; exploit scripting.<br>
-Tokyo Ghoul enjoyer.
 
 <br>
 
